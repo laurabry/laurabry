@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 🔬 Former molecular biologist turned data scientist
+
 🧠 My scientific background shaped how I think: analytical, curious, and detail-oriented
+
 📊 I love exploring data, uncovering patterns, and building machine learning models that are prectical and useful
 
 
