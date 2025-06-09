@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-🔬 Former molecular biologist turned data scientist, with a PhD and a passion for solving real-world problems through data.
+🔬 Former molecular biologist turned data scientist
+🧠 My scientific background shaped how I think: analytical, curious, and detail-oriented
+📊 I love exploring data, uncovering patterns, and building machine learning models that are prectical and useful
 
-🧠 My scientific background shaped how I think: analytical, curious, and detail-oriented. Now I bring that mindset into the world of data science.
-
-📊 I love exploring data, uncovering patterns, and building machine learning models that are prectical and useful.
-
-💡 Currently diving deep into time series analysis, machine learning, and data visualization — and always excited to learn new tools and techniques.
 
 
 📍 Based in Hamburg, open to opportunities and collaborations!  
-🌱 Always learning, always building.
 
 ---
 
